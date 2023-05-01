@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\it's_a_base(WinApi)\Dishonored\Dishonored\Source.cpp(11,52): warning C4311: приведение типов: усечение указателя из "LPVOID" в "DWORD"
+D:\it's_a_base(WinApi)\Dishonored\Dishonored\Source.cpp(11,52): warning C4302: приведение типов: усечение из "LPVOID" к "DWORD"
+D:\it's_a_base(WinApi)\Dishonored\Dishonored\Source.cpp(11,78): warning C4311: приведение типов: усечение указателя из "LPVOID" в "DWORD"
+D:\it's_a_base(WinApi)\Dishonored\Dishonored\Source.cpp(11,78): warning C4302: приведение типов: усечение из "LPVOID" к "DWORD"
+D:\it's_a_base(WinApi)\Dishonored\Dishonored\Source.cpp(12,9): warning C4477: "printf": в строке форматирования "%p" требуется аргумент типа "void *", но вариативный аргумент "1" имеет тип "DWORD"
+D:\it's_a_base(WinApi)\Dishonored\Dishonored\Source.cpp(12,9): warning C4313: printf: конфликт "%p" в строке формата с аргументом 1 типа "DWORD"
+D:\it's_a_base(WinApi)\Dishonored\Dishonored\Source.cpp(13,59): warning C4311: приведение типов: усечение указателя из "HMODULE" в "DWORD"
+D:\it's_a_base(WinApi)\Dishonored\Dishonored\Source.cpp(13,59): warning C4302: приведение типов: усечение из "HMODULE" к "DWORD"
+  Dishonored.vcxproj -> D:\it's_a_base(WinApi)\Dishonored\x64\Debug\Dishonored.dll
